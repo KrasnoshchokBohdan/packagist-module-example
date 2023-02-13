@@ -1,5 +1,5 @@
 {
-    "name": "packagist/module-example",
+    "name": "packagisttest987/module-example",
     "description": "Some",
     "type": "magento2-module",
     "license": "proprietary",
@@ -10,7 +10,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Packagist\\Example\\": ""
+            "PackagistTest987\\Example\\": ""
         }
     },
     "authors": [
